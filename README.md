@@ -27,3 +27,6 @@ The insights gotten from the dataset are;
 - To increase deposits, interest rate can be increased, zero withdrawal rate can be implemented via online or mobile banking, little or no money transfer rates can be implemented. This would persuade customers to deposit their money much more in the bank.
 - Customers constantly need reminders and convincing on the benefit of a product before purchase so implementing a lesser timeframe between campaigns could be more effective.
 - Social media platforms should be utilized, these are usually cheaper especially with organic engagement of posts and referrals. Then broadcast and Radio stations could be used as the age range of majority of the customers are adults, they are more inclined towards the TV stations and still listen to radio channels.
+
+# Limitation
+- The data had a lot of unknown and other values which could have affected the results of the analysis
